@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a786815a-55d1-427f-84ae-e8b2917b165d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Application3/build.gradle">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/Application3/">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1pEKJvR1JISKlsVjB1c9a6Ey8dW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Application1" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="Gradle.C:/Users/gnana/AndroidStudioProjects/Project3/Application3/build.gradle">
+    <configuration name="C:/Users/gnana/AndroidStudioProjects/Project3/Application1/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Application1/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/gnana/AndroidStudioProjects/Project3/Application2/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Application2/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/gnana/AndroidStudioProjects/Project3/Application3/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Application3/" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.C:/Users/gnana/AndroidStudioProjects/Project3/Application1/build.gradle" />
+      <item itemvalue="Gradle.C:/Users/gnana/AndroidStudioProjects/Project3/Application2/build.gradle" />
+      <item itemvalue="Gradle.C:/Users/gnana/AndroidStudioProjects/Project3/Application3/build.gradle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Users/gnana/AndroidStudioProjects/Project3/Application3/build.gradle" />
+        <item itemvalue="Gradle.C:/Users/gnana/AndroidStudioProjects/Project3/Application2/build.gradle" />
+        <item itemvalue="Gradle.C:/Users/gnana/AndroidStudioProjects/Project3/Application1/build.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a786815a-55d1-427f-84ae-e8b2917b165d" name="Default Changelist" comment="" />
+      <created>1614742741134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614742741134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="339" key="#Notifications" timestamp="1614742754829">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="621" y="339" key="#Notifications/0.0.1536.920@0.0.1536.920" timestamp="1614742754829" />
+    <state x="223" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614742889564">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="223" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.920@0.0.1536.920" timestamp="1614742889564" />
+    <state x="549" y="215" key="FileChooserDialogImpl" timestamp="1614742915118">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1614742915118" />
+    <state width="1491" height="241" key="GridCell.Tab.0.bottom" timestamp="1614742824672">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1491" height="241" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1614742824672" />
+    <state width="1491" height="241" key="GridCell.Tab.0.center" timestamp="1614742824671">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1491" height="241" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1614742824671" />
+    <state width="1491" height="241" key="GridCell.Tab.0.left" timestamp="1614742824671">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1491" height="241" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1614742824671" />
+    <state width="1491" height="241" key="GridCell.Tab.0.right" timestamp="1614742824671">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1491" height="241" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1614742824671" />
+  </component>
+</project>

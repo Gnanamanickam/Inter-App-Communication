@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="series_name">
+        <item>Friends</item>
+        <item>Barbarian</item>
+        <item>Behind Her Eyes</item>
+        <item>Big Bang Theory</item>
+        <item>Black Mirror</item>
+        <item>Breaking Bad</item>
+        <item>Dark</item>
+        <item>Game of Thrones</item>
+        <item>Last Kingdom</item>
+        <item>Modern Family</item>
+        <item>Narcos</item>
+        <item>Person Of Interest</item>
+        <item>Prison Break</item>
+        <item>Punisher</item>
+        <item>Queens Gambit</item>
+        <item>Sherlock Holmes</item>
+        <item>The 100</item>
+        <item>The One</item>
+        <item>Two And Half Men</item>
+        <item>Umbrella Academy</item>
+        <item>Vikings</item>
+        <item>White Collar</item>
+        <item>Witcher</item>
+        <item>The Walking Dead</item>
+        <item>Cobra Kai</item>
+    </string-array>
+
+    <string-array name="series_url">
+        <item>https://en.wikipedia.org/wiki/Friends</item>
+        <item>https://en.wikipedia.org/wiki/Barbarians_(2020_TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Behind_Her_Eyes_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/The_Big_Bang_Theory</item>
+        <item>https://en.wikipedia.org/wiki/Black_Mirror</item>
+        <item>https://en.wikipedia.org/wiki/Breaking_Bad</item>
+        <item>https://en.wikipedia.org/wiki/Dark_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Game_of_Thrones</item>
+        <item>https://en.wikipedia.org/wiki/The_Last_Kingdom_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Modern_Family</item>
+        <item>https://en.wikipedia.org/wiki/Narcos</item>
+        <item>https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Prison_Break</item>
+        <item>https://en.wikipedia.org/wiki/Punisher</item>
+        <item>https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)</item>
+        <item>https://en.wikipedia.org/wiki/Sherlock_Holmes_(2014_TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/The_100_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/The_One_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Two_and_a_Half_Men</item>
+        <item>https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Vikings_(2013_TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/White_Collar_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/The_Witcher_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Cobra_Kai</item>
+
+    </string-array>
+
+    <string-array name="series_image">
+        <item>file:///android_res/drawable/friends.jpg</item>
+        <item>file:///android_res/drawable/barbarian.jpg</item>
+        <item>file:///android_res/drawable/behindhereyes.jpg</item>
+        <item>file:///android_res/drawable/bigbangtheory.jpg</item>
+        <item>file:///android_res/drawable/blackmirro.jpgr</item>
+        <item>file:///android_res/drawable/breakingbad.jpg</item>
+        <item>file:///android_res/drawable/dark.jpg</item>
+        <item>file:///android_res/drawable/got.jpg</item>
+        <item>file:///android_res/drawable/lastkingdom.jpg</item>
+        <item>file:///android_res/drawable/modernfamily.jpg</item>
+        <item>file:///android_res/drawable/narcos.jpg</item>
+        <item>file:///android_res/drawable/personofinterest.jpg</item>
+        <item>file:///android_res/drawable/prisonbreak.jpg</item>
+        <item>file:///android_res/drawable/punisher.jpg</item>
+        <item>file:///android_res/drawable/queensgambit.jpg</item>
+        <item>file:///android_res/drawable/sherlock.jpg</item>
+        <item>file:///android_res/drawable/thehundred.jpg</item>
+        <item>file:///android_res/drawable/theone.jpg</item>
+        <item>file:///android_res/drawable/twoandhalfmen.jpg</item>
+        <item>file:///android_res/drawable/umbrellaacademy.jpg</item>
+        <item>file:///android_res/drawable/vikings.jpg</item>
+        <item>file:///android_res/drawable/whitecollar.jpg</item>
+        <item>file:///android_res/drawable/witcher.jpg</item>
+        <item>file:///android_res/drawable/twd.jpg</item>
+        <item>file:///android_res/drawable/cobrakai.jpg</item>
+    </string-array>
+</resources>
